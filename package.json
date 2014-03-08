@@ -1,0 +1,10 @@
+{
+  "name": "generator-pixmap-analyzer",
+  "version": "1.0.0",
+  "main": "main.js",
+  "generator-core-version": ">=1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marekhrabe/generator-pixmap-analyzer"
+  }
+}
